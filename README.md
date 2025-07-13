@@ -6,9 +6,9 @@
 
 ##  Proyectos incluidos
 
-- 🧾 **Registro de Usuarios (C#)**: Sistema de consola para registrar, editar y mostrar usuarios.
-- 🧮 **Calculadora básica (C#)**: Calculadora de operaciones simples con validación de entrada.
-- 🔁 **Conversor de temperatura (Python)**: Convierte entre Celsius, Fahrenheit y Kelvin.
+-  **Registro de Usuarios (C#)**: Sistema de consola para registrar, editar y mostrar usuarios.
+-  **Calculadora básica (C#)**: Calculadora de operaciones simples con validación de entrada.
+-  **Conversor de temperatura (Python)**: Convierte entre Celsius, Fahrenheit y Kelvin.
 
 ##  Objetivo
 
